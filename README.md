@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I Wayan Yoga Adi Pranata</h1>
+## Hi, I'm I Wayan Yoga Adi Pranata 👋
 <h3 align="center">I am an undergraduate electrical engineering student with a background in computer technology. During my studies, I learned about Software Engineering, Database Systems, Computer Architecture & Operating System, Machine Learning, Artificial Intelligence, and UI/UX.</h3>
 
 - 🌱 I’m currently studying at **Udayana University**
