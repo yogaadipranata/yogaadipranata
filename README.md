@@ -1,8 +1,10 @@
 ## Hi, I'm I Wayan Yoga Adi Pranata 👋
 
-🎓 Electrical Engineering graduate at Udayana University </br>
-🧠 Skilled in web developer, UI/UX designer, photography, and graphic design </br>
-📷 Sharing my photography regularly on Instagram
+✨ Referred to as Yoga </br>
+🎓 An Electrical Engineering graduate from Udayana University </br>
+🧠 Skilled in web development and UI/UX design </br>
+🎨 Passionate about photography and graphic design </br>
+📷 Regularly shares photography projects on Instagram
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogaadipranata10@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogaadipranata) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogaadipranata) 
